@@ -37,7 +37,7 @@ Templates have been extended by Google examples style docstrings for Python and 
         @Credit: ...
         @Links: ...
         """
-
+####################################################################################
 ```
 
 ## The SQL Text Header Examples
