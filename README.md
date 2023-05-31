@@ -28,7 +28,7 @@ Templates have been extended by Google examples style docstrings for Python and 
 
 # A few quick examples:
 
-## Python Text Headers Example  
+## The Python Text Header Example  
 ``` 
 ####################################################################################
  """
@@ -40,7 +40,7 @@ Templates have been extended by Google examples style docstrings for Python and 
 
 ```
 
-## SQL Text Headers Examples
+## The SQL Text Header Examples
 
 ### Header Example 1:
 ``` 
