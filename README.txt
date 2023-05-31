@@ -1,5 +1,5 @@
 # header-text-templates
-Here we have a Header text templates examples. Copy, configure and use as your own.
+Here we have a Header text template examples. Copy, configure and use as your own.
 
 ## A few examples:
 
