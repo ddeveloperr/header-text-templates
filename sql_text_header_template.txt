@@ -16,7 +16,7 @@
 -- Purpose      description of the business/technical purpose
 --              using multiple lines as needed
 -- Copyright © yyyy, Company Name, All Rights Reserved
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 -- Modification History
 --
 -- 01/01/0000  developer full name  
