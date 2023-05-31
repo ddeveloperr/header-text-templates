@@ -1,0 +1,100 @@
+
+## SQL 
+------
+
+### Header Example 1:
+-- ================================================================================================
+-- Author: Name
+-- Create date: 2023-01-01 
+-- Description: SHort desc
+-- ================================================================================================
+
+### Header Example 2:
+---------------------------------------------------------------------------------------------------
+-- Author       name
+-- Created      date
+-- Purpose      description of the business/technical purpose
+--              using multiple lines as needed
+-- Copyright © yyyy, Company Name, All Rights Reserved
+-------------------------------------------------------------------------------
+-- Modification History
+--
+-- 01/01/0000  developer full name  
+--      A comprehensive description of the changes. The description may use as 
+--      many lines as needed.
+---------------------------------------------------------------------------------------------------
+
+### Heaer Example 3:
+---------------------------------------------------------------------------------------------------
+-- Produced By   : Our company  
+-- URL       : www.company.com  
+-- Author        : me   
+-- Date      : yesterday    
+-- Purpose       : to do something  
+-- Called by     : some other process   
+-- Modifications : some other guy - today - to fix my bug   
+---------------------------------------------------------------------------------------------------
+
+### Header Example 4: 
+/* ================================================================================================
+DESC:   Some notes about what this does
+           tabbed in if you need additional lines
+NOTES:  Additional notes
+           tabbed in if you need additional lines
+=================================================================================================== */
+
+### Header Example 5:
+/*/*/*
+
+    Name:           pr_ProcName
+    Author:         Joe Smith
+    Written:        6/15/16
+    Purpose:        Short description about the proc.
+
+    Edit History:   6/15/16 - Joe Smith
+                        + Initial creation.
+                    6/22/16 - Jaden Smith
+                        + Change source to blahblah
+                        + Optimized JOIN
+                    6/30/16 - Joe Smith
+                        + Reverted changes made by Jaden.
+
+*/*/*/
+
+### Header Example 6: 
+/***************************************************************************************************
+Procedure:          dbo.usp_DoSomeStuff
+Create Date:        2023-01-25
+Author:             Joe Expert
+Description:        Verbose description of what the query does goes here. Be specific and don't be
+                    afraid to say too much. More is better, than less, every single time. Think about
+                    "what, when, where, how and why" when authoring a description.
+Call by:            [schema.usp_ProcThatCallsThis]
+                    [Application Name]
+                    [Job]
+                    [PLC/Interface]
+Affected table(s):  [schema.TableModifiedByProc1]
+                    [schema.TableModifiedByProc2]
+Used By:            Functional Area this is use in, for example, Payroll, Accounting, Finance
+Parameter(s):       @param1 - description and usage
+                    @param2 - description and usage
+Usage:              EXEC dbo.usp_DoSomeStuff
+                        @param1 = 1,
+                        @param2 = 3,
+                        @param3 = 2
+                    Additional notes or caveats about this object, like where is can and cannot be run, or
+                    gotchas to watch for when using it.
+****************************************************************************************************
+SUMMARY OF CHANGES
+Date(yyyy-mm-dd)    Author              Comments
+------------------- ------------------- ------------------------------------------------------------
+2012-04-27          Kemal Usdaworkhur    Move Z <-> X was done in a single step. Warehouse does not
+                                        allow this. Converted to two step process.
+                                        Z <-> 7 <-> X
+                                            1) move class Z to class 7
+                                            2) move class 7 to class X
+
+2018-03-22          Miran Widaplan       General formatting and added header information.
+2018-03-22          Miran Widaplan       Added logic to automatically Move G <-> H after 12 months.
+***************************************************************************************************/
+
