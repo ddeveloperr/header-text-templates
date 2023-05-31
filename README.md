@@ -1,23 +1,20 @@
 
 # header-text-templates
-Here we have a few Header text template examples. 
-The goal of this repo is to give you a quick reference and encourage you to always write well documented code!
-
+This is your Quick Reference to make well documented code!
+The goal of this repo is to encourage you to ALWAYS WRITE CLEAN CODE!
 Templates have been extended by Google examples style docstrings for Python and NumPy! 
 
 ## Type of documents covered:
 
- 
-
- 1. #### Standard SQL
- 2. #### Python (basic comments)
- 3. #### Example Google style docstrings
+ 1. #### [Standard SQL Headers](https://github.com/ddeveloperr/header-text-templates/blob/main/sql_text_header_template.txt) 
+ 2. #### [Python Headers](https://github.com/ddeveloperr/header-text-templates/blob/main/python_text_header_template.txt)
+ 3. #### [Google's Python Style Docstrings](https://github.com/ddeveloperr/header-text-templates/blob/main/example_google_style_python_docstrings.py) 
 >  This module demonstrates documentation as specified by the `Google
 > Python Style Guide`_. Docstrings may extend over multiple lines.
 > Sections are created with a section header and a colon followed by a
 > block of indented text.
 
- 4. #### Example NumPy Style Python Docstrings	   
+ 4. #### [Google's NumPy Style Python Docstrings](https://github.com/ddeveloperr/header-text-templates/blob/main/example_NumPy_style_python_docstrings.py)	   
 > This module demonstrates documentation as specified by the `Google
 > Python
 > 		  Style Guide`_. Docstrings may extend over multiple lines. Sections are created
@@ -29,7 +26,7 @@ Templates have been extended by Google examples style docstrings for Python and 
 
 
 
-# A few examples:
+# A few quick examples:
 
 ## Python Text Headers Example  
 ``` 
