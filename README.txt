@@ -35,6 +35,6 @@ Here we have a Header text template examples. Copy, configure and use as your ow
 
 
 
-## For more details check the separate files in this repo!
+## For more details check the separate files in this repo https://github.com/ddeveloperr/header-text-templates/tree/main 
 
 
