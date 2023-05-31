@@ -1,0 +1,67 @@
+## Python Text Headers Examples
+### Example 0: ---------------------------------------------------------------------
+####################################################################################
+ """
+        @Author: Kemal Cholovich
+        @Date: 2023-05-31-
+        @Credit: ...
+        @Links: ...
+        """
+
+
+### Example 1: ---------------------------------------------------------------------
+#################################################################################### 
+
+#!/usr/bin/env python # [1]
+"""\
+This script foos the given bars [2]
+
+Usage: myscript.py BAR1 BAR2
+"""
+import os   # standard library, [3]
+import sys
+
+import requests  # 3rd party packages
+
+import mypackage  # local source
+
+
+### Example 2: ---------------------------------------------------------------------
+####################################################################################
+
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""Module documentation goes here
+   and here
+   and ...
+"""
+
+### Example 3: ---------------------------------------------------------------------
+####################################################################################
+
+"""
+
+      :mod:`parrot` -- Dead parrot access
+      ===================================
+
+      .. module:: parrot
+         :platform: Unix, Windows
+         :synopsis: Analyze and reanimate dead parrots.
+      .. moduleauthor:: Eric Cleese <eric@python.invalid>
+      .. moduleauthor:: John Idle <john@python.invalid>
+  """
+
+
+### Example 4: ---------------------------------------------------------------------
+####################################################################################
+ #!/usr/bin/env python3  Line 1
+      # -*- coding: utf-8 -*- Line 2
+      #----------------------------------------------------------------------------
+      # Created By  : name_of_the_creator   Line 3
+      # Created Date: date/month/time ..etc
+      # version ='1.0'
+      # ---------------------------------------------------------------------------
+      
+      
+### Example 5:
